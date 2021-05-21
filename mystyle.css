@@ -1,0 +1,78 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    background-color:blanchedalmond;
+}
+h1.header1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+div{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.linkImages{
+    vertical-align: top;
+    max-width: 10%;
+}
+div.images, img {
+    vertical-align:middle;
+    max-width: 100%;
+    min-width: 100%;
+}
+ul{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+video.center{
+    display: flex;
+    align-items: center;
+    
+}
